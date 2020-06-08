@@ -1,0 +1,9 @@
+/bin/
+/cache/*
+/logs/*
+composer.lock
+.idea
+/vendor/
+.DS_Store
+.env
+*.log
